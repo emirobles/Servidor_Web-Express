@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Shinobu figure",
+        "price": 5500.50,
+        "thumbnail": "https://somoskudasai.com/wp-content/uploads/2020/08/EfrSIJdU0AYh08a.jpg"
+        "id": 1
+    },
+    {
+        "title": "Asuka figure",
+        "price": 12800.90,
+        "thumbnail": "https://somoskudasai.com/wp-content/uploads/2021/12/1-9.jpg"
+        "id": 2
+    },    
+    {
+        "title": "Gojo figure",
+        "price": 15800.90,
+        "thumbnail": "https://anime-figure.com/static/images/thumbs/xl/df5916725df32b8910390a85a7490d7ece5e1173.jpg"
+        "id": 3
+    },   
+]
